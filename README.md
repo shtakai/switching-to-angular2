@@ -2,7 +2,7 @@
 
 This repository contains the code samples for my book "[Switching to Angular 2](https://www.packtpub.com/web-development/switching-angular-2)".
 
-[![](https://www.packtpub.com/sites/default/files/IMG6201.jpg)](https://www.packtpub.com/web-development/switching-angular-2)
+[![](https://www.packtpub.com/sites/default/files/IMG6201.jpg)](https://www.packtpub.com/web-development/switching-angular-2) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/switching-to-angular2.svg)](https://www.guardrails.io)
 
 ## Versions
 
